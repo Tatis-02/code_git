@@ -1,0 +1,1 @@
+Este archivo será utilizado para la práctica de cancelar commits.
